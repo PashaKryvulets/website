@@ -6,4 +6,4 @@ My first authorization system. Database: MySQL.
 ![Wishlist Screenshot](img/screenshot1.png)
 
 **Main Page Interface (2)**
-![Wishlist Screenshot](img/screenshot2.png)
+![Wishlist Screenshot](img/image.png)
